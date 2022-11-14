@@ -1,3 +1,2 @@
-# demo3
-
-Here, I have used count function for first time. A basic exercise for getting more familiar with Terraform.
+This is the first exercise using count function.
+It is basic exercise for getting more familiar with Terraform.
